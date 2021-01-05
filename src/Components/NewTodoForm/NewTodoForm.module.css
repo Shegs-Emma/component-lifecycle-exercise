@@ -1,0 +1,30 @@
+.NewTodoForm {
+    padding: 5%;
+}
+
+.NewTodoFormData {
+    padding: 10px;
+    text-align: justify;
+}
+
+.NewTodoFormButtonDel {
+    background-color: rgb(223, 92, 92);
+    color: white;
+    border: 1px solid white;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.NewTodoFormButtonCom {
+    background-color: rgb(116, 116, 245);
+    color: white;
+    border: 1px solid white;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.NewTodoFormCompleted {
+    text-decoration: line-through;
+    padding: 10px;
+    text-align: justify;
+}
